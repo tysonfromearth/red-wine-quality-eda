@@ -1,0 +1,9 @@
+References
+
+Websites:
+https://s3.amazonaws.com/udacity-hosted-downloads/ud651/wineQualityInfo.txt
+https://github.com/ggobi/ggally/issues/6
+https://yihui.name/knitr/options/?version=1.1.447&mode=desktop
+
+Other:
+Udacity Review at https://review.udacity.com/#!/reviews/1198016
