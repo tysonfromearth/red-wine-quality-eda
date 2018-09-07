@@ -1,7 +1,7 @@
-### Red Wine Quality Exploratory Data Analysis (EDA)
+# Red Wine Quality Exploratory Data Analysis (EDA)
 Red Wine EDA is a demonstration of the exploratory stage of data analysis and R programming ability. The project explores the relationship between the physiochemical properties and subjective quality ratings of 1599 samples of red wine through a series of visualizations. Variables of interest in creating a model to predict the quality ratings of red wines based on their physiochemical properties are suggested as a result of this analysis. Future analysis could flesh out just such a model in detail.
 
-# Getting Started
+### Getting Started
 To view the report, please visit: https://tysonfromearth.github.io/red-wine-quality-eda/report
 
 To learn more about the dataset, please visit*: https://tysonfromearth.github.io/red-wine-quality-eda/about_dataset
